@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "asciidoctor.js": "1.5.0"
+    "asciidoctor.js": "~1.5.5-4"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
